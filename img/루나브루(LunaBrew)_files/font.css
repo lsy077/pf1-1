@@ -1,0 +1,56 @@
+@font-face {
+    font-family:'GmarketSansLight';
+    font-style:normal;
+    font-weight:normal;
+	src: url('font/GmarketSansLight.eot');
+	src:local(''),
+        url('font/GmarketSansLight.eot?#iefix') format('embedded-opentype'), 
+		url('font/GmarketSansLight.woff2') format("woff2"), 
+		url('font/GmarketSansLight.woff') format("woff"),
+		url('font/GmarketSansLight.ttf') format("truetype");
+}
+@font-face {
+    font-family:'GmarketSansMedium';
+    font-style:normal;
+    font-weight:normal;
+	src: url('font/GmarketSansMedium.eot');
+	src:local(''),
+        url('font/GmarketSansMedium.eot?#iefix') format('embedded-opentype'), 
+		url('font/GmarketSansMedium.woff2') format("woff2"), 
+		url('font/GmarketSansMedium.woff') format("woff"),
+		url('font/GmarketSansMedium.ttf') format("truetype");
+}
+@font-face {
+    font-family:'GmarketSansBold';
+    font-style:normal;
+    font-weight:normal;
+	src: url('font/GmarketSansBold.eot'); 
+	src:local(''),
+        url('font/GmarketSansBold.eot?#iefix') format('embedded-opentype'),
+		url('font/GmarketSansBold.woff2') format("woff2"), 
+		url('font/GmarketSansBold.woff') format("woff"),
+		url('font/GmarketSansBold.ttf') format("truetype");
+}
+@font-face {
+    font-family:'GmarketSansBold';
+    font-style:normal;
+    font-weight:normal;
+	src: url('font/GmarketSansBold.eot'); 
+	src:local(''),
+        url('font/GmarketSansBold.eot?#iefix') format('embedded-opentype'),
+		url('font/GmarketSansBold.woff2') format("woff2"), 
+		url('font/GmarketSansBold.woff') format("woff"),
+		url('font/GmarketSansBold.ttf') format("truetype");
+}
+
+
+@font-face {
+    font-family:'JSongMyung-Regular-KO';
+    font-style:normal;
+    font-weight:normal;
+	src:url('font/JSongMyung-Regular.woff') format("woff");
+	src:url('font/JSongMyung-Regular.eot?#iefix') format("embedded-opentype"),
+	url('font/JSongMyung-Regular.ttf') format("truetype"),
+	url('font/JSongMyung-Regular.woff') format("woff"),
+	url('font/JSongMyung-Regular.woff2') format("woff2");
+}

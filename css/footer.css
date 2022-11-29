@@ -1,0 +1,61 @@
+/* 하단 */
+footer{
+
+}
+footer .wrap{
+  /*! height: 1168px; */
+  width: 1600px;
+  margin: 0 auto;
+  border: 3px solid #999;
+  border-top-color: rgb(153, 153, 153);
+  border-top-style: solid;
+  border-top-width: 3px;
+  border-top: transparent;
+  font-family: 'Noto Sans KR', sans-serif;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  box-sizing: border-box;
+  border-top: transparent;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+footer .wrap h1{
+  margin-top: 0;
+}
+footer .wrap h1 a{
+  font-size: 0;
+  background-image: url(../img/logo.svg);
+  width: 80px;
+  height: 80px;
+  display: block;
+}
+footer .wrap address{
+  width: 70%;
+}
+footer .wrap address strong{
+  font-weight: bold;
+  margin-right: 8px;
+}
+footer .wrap address strong:nth-child(n+2){
+  margin-left: 20px;
+}
+footer .wrap p{
+
+}
+footer .wrap p.copyright{
+  position: absolute;
+  left: 116px;
+  top: 100px;
+  font-size: 15px;
+}
+footer .wrap p.tel{
+  margin-right: 20px;
+}
+footer .wrap p.tel strong{ /* strong은 인라인태그 */
+  font-size: 44px;
+  vertical-align: top; /* 인라인요소의 수직정렬,  vertical수직의 뜻 */
+  line-height: 0.7;
+  font-weight: bold;
+  font-family: 'Noto Sans KR', sans-serif;
+}
